@@ -6,6 +6,9 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+
+	//ja te¿ mogê
+	//test
 	return 0;
 }
 

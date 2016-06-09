@@ -1,19 +1,19 @@
-﻿Build started 2016-05-21 20:00:05.
-     1>Project "C:\Users\Adam\Documents\wdsiprojekt\WdSI_Project_01\WdSI_Project\WdSI_Project.vcxproj" on node 2 (Build target(s)).
+﻿Build started 2016-06-09 11:49:15.
+     1>Project "C:\Users\Jakub\documents\visual studio 2013\Projects\WdSI_Project\WdSI_Project\WdSI_Project.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\WdSI_Project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WdSI_Project.cpp
          WdSI_Project.cpp
-     1>c:\users\adam\documents\wdsiprojekt\wdsi_project_01\wdsi_project\wdsi_project.cpp(35): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
-     1>c:\users\adam\documents\wdsiprojekt\wdsi_project_01\wdsi_project\wdsi_project.cpp(55): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
-     1>c:\users\adam\documents\wdsiprojekt\wdsi_project_01\wdsi_project\wdsi_project.cpp(65): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
-     1>c:\users\adam\documents\wdsiprojekt\wdsi_project_01\wdsi_project\wdsi_project.cpp(71): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
-     1>c:\users\adam\documents\wdsiprojekt\wdsi_project_01\wdsi_project\wdsi_project.cpp(80): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\jakub\documents\visual studio 2013\projects\wdsi_project\wdsi_project\wdsi_project.cpp(35): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\jakub\documents\visual studio 2013\projects\wdsi_project\wdsi_project\wdsi_project.cpp(51): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\jakub\documents\visual studio 2013\projects\wdsi_project\wdsi_project\wdsi_project.cpp(61): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\jakub\documents\visual studio 2013\projects\wdsi_project\wdsi_project\wdsi_project.cpp(71): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\jakub\documents\visual studio 2013\projects\wdsi_project\wdsi_project\wdsi_project.cpp(81): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Adam\Documents\wdsiprojekt\WdSI_Project_01\Debug\WdSI_Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Adam\Documents\wdsiprojekt\WdSI_Project_01\Debug\WdSI_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Adam\Documents\wdsiprojekt\WdSI_Project_01\Debug\WdSI_Project.lib" /MACHINE:X86 Debug\stdafx.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jakub\documents\visual studio 2013\Projects\WdSI_Project\Debug\WdSI_Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jakub\documents\visual studio 2013\Projects\WdSI_Project\Debug\WdSI_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jakub\documents\visual studio 2013\Projects\WdSI_Project\Debug\WdSI_Project.lib" /MACHINE:X86 Debug\stdafx.obj
          Debug\WdSI_Project.obj
-         WdSI_Project.vcxproj -> C:\Users\Adam\Documents\wdsiprojekt\WdSI_Project_01\Debug\WdSI_Project.exe
-     1>Done Building Project "C:\Users\Adam\Documents\wdsiprojekt\WdSI_Project_01\WdSI_Project\WdSI_Project.vcxproj" (Build target(s)).
+         WdSI_Project.vcxproj -> C:\Users\Jakub\documents\visual studio 2013\Projects\WdSI_Project\Debug\WdSI_Project.exe
+     1>Done Building Project "C:\Users\Jakub\documents\visual studio 2013\Projects\WdSI_Project\WdSI_Project\WdSI_Project.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.81
+Time Elapsed 00:00:00.83
